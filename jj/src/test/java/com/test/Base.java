@@ -30,6 +30,9 @@ public void m1()
 @AfterMethod()
 public void tearDown()
 {
-driver.quit();	
+	//driver=new ChromeDriver();
+	
+
+//driver.quit();	
 }}
 
